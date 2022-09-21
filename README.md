@@ -1,3 +1,2 @@
-# js-rlgqbu
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-rlgqbu)
+form for homework assignment 
+using html and css only
